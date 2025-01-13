@@ -20,7 +20,7 @@ body {
   @apply font-sans antialiased;
   @apply flex flex-col;
   @apply bg-zinc-50 dark:bg-zinc-900;
-  @apply text-black/50 dark:text-white/75;
+  @apply text-black/70 dark:text-white/75;
 }
 
 header {
@@ -30,7 +30,7 @@ header {
 }
 
 main {
-  @apply flex-1 py-32;
+  @apply flex-1 py-20;
 }
 
 footer {
