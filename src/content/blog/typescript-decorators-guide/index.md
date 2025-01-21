@@ -4,7 +4,7 @@ description: 装饰器让TypeScript的世界更好。
 date: 2024-03-27 22:45:38
 ---
 
-> 本文转载于[A Complete Guide to TypeScript Decorators](https://saul-mirone.github.io/a-complete-guide-to-typescript-decorator/)
+> 文章来源于[A Complete Guide to TypeScript Decorators](https://saul-mirone.github.io/a-complete-guide-to-typescript-decorator/)
 
 装饰器让TypeScript的世界更好。 我们使用的许多库都基于这一强大特性构建, 例如[Angular](https://angular.io/)和[Nestjs](https://nestjs.com/)。 在这篇博客中我将介绍装饰器和它的许多细节。 我希望在读完这篇文章后，你可以理解何时和如何使用这一强的的特性。
 
